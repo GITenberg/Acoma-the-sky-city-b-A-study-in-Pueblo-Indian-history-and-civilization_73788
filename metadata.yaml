@@ -1,11 +1,16 @@
 _repo: Acoma-the-sky-city-b-A-study-in-Pueblo-Indian-history-and-civilization_73788
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73788-h/images/cover-deco.jpg
 creator:
   author:
     agent_name: Sedgwick, Mary Katrine Rice
     gutenberg_agent_id: '57218'
     url: http://www.gutenberg.org/2009/agents/57218
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73788#Acoma-the-sky-city-b-A-study-in-Pueblo-Indian-history-and-civilization
 gutenberg_issued: '2024-06-07'
 gutenberg_type: Text
 identifiers:
